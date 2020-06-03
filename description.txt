@@ -4,7 +4,7 @@ NOTE : Data compiled from US Government
 ---------------------------------------------------------------
 'Country'
 
--> Names of the countries (can be used as indexes)
+-> Names of the countries 
 ---------------------------------------------------------------
 
 ---------------------------------------------------------------
